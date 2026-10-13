@@ -52,7 +52,7 @@ function banner({ bg, ink, mute, glyph, live, ring }) {
 </g>
 
 <text x="172" y="160" fill="${ink}" font-family="${SANS}" font-size="64" font-weight="300" letter-spacing="-2.5">Yousef Turk</text>
-<text x="174" y="200" fill="${mute}" font-family="${SANS}" font-size="21" font-weight="400">High-agency builder · ML research, AI agents &amp; robotics · Abu Dhabi</text>
+<text x="174" y="200" fill="${mute}" font-family="${SANS}" font-size="21" font-weight="400">High-agency builder | ML research, AI agents &amp; robotics | Abu Dhabi</text>
 <g transform="translate(174 240)">
   <circle cx="5" cy="-6" r="5" fill="${live}"/>
   <text x="20" y="0" fill="${live}" font-family="${MONO}" font-size="15" letter-spacing=".5">BUILDING THE AI EVERYONE ELSE WILL USE</text>
